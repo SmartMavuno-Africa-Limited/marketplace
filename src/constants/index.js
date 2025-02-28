@@ -89,7 +89,7 @@ export const paginationItems = [
   {
     _id: 1001,
     img: spfOne,
-    productName: "Cap for Boys",
+    productName: "Farming Drones",
     price: "35.00",
     color: "Blank and White",
     badge: true,
@@ -98,7 +98,7 @@ export const paginationItems = [
   {
     _id: 1002,
     img: spfTwo,
-    productName: "Tea Table",
+    productName: "Farm Solars",
     price: "180.00",
     color: "Gray",
     badge: true,
@@ -107,7 +107,7 @@ export const paginationItems = [
   {
     _id: 1003,
     img: spfThree,
-    productName: "Headphones",
+    productName: "Hydroponic Spray",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -116,7 +116,7 @@ export const paginationItems = [
   {
     _id: 1004,
     img: spfFour,
-    productName: "Sun glasses",
+    productName: "Fram CCTV",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -125,8 +125,8 @@ export const paginationItems = [
   {
     _id: 1005,
     img: bestSellerOne,
-    productName: "Flower Base",
-    price: "35.00",
+    productName: "Vegetable Package",
+    price: "235.00",
     color: "Blank and White",
     badge: true,
     des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis.",
@@ -134,7 +134,7 @@ export const paginationItems = [
   {
     _id: 1006,
     img: bestSellerTwo,
-    productName: "New Backpack",
+    productName: "Hydroponic pipes",
     price: "180.00",
     color: "Gray",
     badge: false,
@@ -143,7 +143,7 @@ export const paginationItems = [
   {
     _id: 1007,
     img: bestSellerThree,
-    productName: "Household materials",
+    productName: "Red Onions",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -152,7 +152,7 @@ export const paginationItems = [
   {
     _id: 1008,
     img: bestSellerFour,
-    productName: "Travel Bag",
+    productName: "PopCorns",
     price: "220.00",
     color: "Black",
     badge: false,
@@ -161,7 +161,7 @@ export const paginationItems = [
   {
     _id: 1009,
     img: newArrOne,
-    productName: "Round Table Clock",
+    productName: "Cabbages",
     price: "44.00",
     color: "Black",
     badge: true,
@@ -170,7 +170,7 @@ export const paginationItems = [
   {
     _id: 1010,
     img: newArrTwo,
-    productName: "Smart Watch",
+    productName: "Kienyeji Hen",
     price: "250.00",
     color: "Black",
     badge: true,
@@ -179,7 +179,7 @@ export const paginationItems = [
   {
     _id: 1011,
     img: newArrThree,
-    productName: "cloth Basket",
+    productName: "Minji",
     price: "80.00",
     color: "Mixed",
     badge: true,
@@ -188,7 +188,7 @@ export const paginationItems = [
   {
     _id: 1012,
     img: newArrFour,
-    productName: "Funny toys for babies",
+    productName: "Ground Nuts",
     price: "60.00",
     color: "Mixed",
     badge: false,
