@@ -24,6 +24,21 @@ import spfOne from "./products/specialOffer/spfOne.webp";
 import spfTwo from "./products/specialOffer/spfTwo.webp";
 import spfThree from "./products/specialOffer/spfThree.webp";
 import spfFour from "./products/specialOffer/spfFour.webp";
+import beekit from "./products/specialOffer/beekit.webp";
+import farmercaps from "./products/specialOffer/farmercaps.webp";
+import farmsurveylance from "./products/specialOffer/farmsurveylance.webp";
+import soiltestingmeter from "./products/specialOffer/soiltestingmeter.webp";
+import fruittree from "./products/specialOffer/fruittree.webp";
+import dairymeal from "./products/specialOffer/dairymeal.jpeg";
+import vermicompost from "./products/specialOffer/vermicompost.jpeg";
+import paultryfeeders from "./products/specialOffer/paultryfeeders.jpeg";
+import hydro from "./products/specialOffer/hydro.webp";
+import layermash from "./products/specialOffer/layermash.jpeg";
+import greenhouseplastic from "./products/specialOffer/greenhouseplastic.webp";
+
+
+
+
 
 // Year Product
 import productOfTheYear from "./products/productOfTheYear.webp";
@@ -57,7 +72,19 @@ export {
   spfOne,
   spfTwo,
   spfThree,
+  beekit,
   spfFour,
+  farmercaps,
+  farmsurveylance,
+  soiltestingmeter,
+  fruittree,
+  dairymeal,
+  layermash,
+  vermicompost,
+  paultryfeeders,
+  hydro,
+  greenhouseplastic,
+
 
   // Year Product
   productOfTheYear,
