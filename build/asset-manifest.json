@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2e7ebfd.css",
-    "main.js": "/static/js/main.286362e1.js",
+    "main.css": "/static/css/main.0bc6fdbe.css",
+    "main.js": "/static/js/main.b2452117.js",
     "static/media/saleImgOne.webp": "/static/media/saleImgOne.11b862dc29ac6e63f1af.webp",
     "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.b43a6b5742c810cb8993.webp",
     "static/media/saleImgThree.webp": "/static/media/saleImgThree.1f35bb0dd2c4efede6e4.webp",
@@ -16,6 +16,7 @@
     "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.d69a9f4cd3c0dc77951e.webp",
     "static/media/spfTwo.webp": "/static/media/spfTwo.a9aa7e1f5bda86d96f06.webp",
     "static/media/spfThree.webp": "/static/media/spfThree.b1a9f985eed9e6002c97.webp",
+    "static/media/hydro.webp": "/static/media/hydro.67bb416503555fe1624c.webp",
     "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.ee036d4f43442a910520.webp",
     "static/media/newArrFour.webp": "/static/media/newArrFour.87d6ff536c657a1bff22.webp",
     "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.60e343968d8a26cda0bb.webp",
@@ -25,12 +26,19 @@
     "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
     "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
     "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/soiltestingmeter.webp": "/static/media/soiltestingmeter.e6c12a1e82d263445032.webp",
+    "static/media/fruittree.webp": "/static/media/fruittree.b171df9fa7f65a548215.webp",
+    "static/media/vermicompost.jpeg": "/static/media/vermicompost.20fab216d28a921fcf53.jpeg",
+    "static/media/beekit.webp": "/static/media/beekit.edc53e4258501e748b35.webp",
+    "static/media/farmsurveylance.webp": "/static/media/farmsurveylance.121aa501b08e6b611712.webp",
+    "static/media/farmercaps.webp": "/static/media/farmercaps.08c2f06733cfc832020d.webp",
+    "static/media/greenhouseplastic.webp": "/static/media/greenhouseplastic.2161e9bb2c651fde3e82.webp",
     "index.html": "/index.html",
-    "main.d2e7ebfd.css.map": "/static/css/main.d2e7ebfd.css.map",
-    "main.286362e1.js.map": "/static/js/main.286362e1.js.map"
+    "main.0bc6fdbe.css.map": "/static/css/main.0bc6fdbe.css.map",
+    "main.b2452117.js.map": "/static/js/main.b2452117.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2e7ebfd.css",
-    "static/js/main.286362e1.js"
+    "static/css/main.0bc6fdbe.css",
+    "static/js/main.b2452117.js"
   ]
 }

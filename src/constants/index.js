@@ -185,7 +185,7 @@ export const paginationItems = [
   {
     _id: 1012,
     img: newArrFour,
-    productName: "Groundnut Sheller",
+    productName: "Groundnuts",
     price: "28,500",
     badge: false,
     des: "Electric groundnut processing machine 200kg/hr capacity",
