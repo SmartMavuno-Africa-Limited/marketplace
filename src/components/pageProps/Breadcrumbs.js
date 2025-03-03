@@ -27,5 +27,5 @@ const Breadcrumbs = ({ prevLocation, title }) => {
     </div>
   );
 };
-
 export default Breadcrumbs;
+

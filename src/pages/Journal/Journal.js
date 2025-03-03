@@ -13,25 +13,33 @@ const Journal = () => {
   return (
     <div className="max-w-container mx-auto px-4">
       <Breadcrumbs title="Journals" prevLocation={prevLocation} />
-      
+
       <div className="py-10 max-w-3xl mx-auto">
         <h1 className="text-2xl sm:text-3xl text-gray-800 font-semibold mb-4">
-          <span className="text-primeColor">Smartavuno</span> - Embrace Innovation and Growth with Cutting-edge Solutions.
+          <span className="text-primeColor">SmartMavuno Marketplace</span> - Grow, Sell, and Buy with Ease!
         </h1>
 
         <p className="text-base sm:text-lg text-gray-600 mb-6">
-          At Smartavuno, we are committed to providing innovative and effective solutions to help businesses thrive in a rapidly evolving market. Our team of experts works relentlessly to offer customized strategies that drive growth, increase efficiency, and boost profitability.
+          Welcome to the SmartMavuno Marketplace, where agribusinesses and farmers connect to sell farm produce, purchase inputs, and access market opportunities. Whether you’re a supplier, a farmer, or a buyer, our platform provides a seamless experience to grow your business.
         </p>
 
         <p className="text-base sm:text-lg text-gray-600 mb-6">
-          Whether you are looking to optimize your operations, enhance customer experiences, or expand your market reach, Smartavuno has the tools and expertise to turn your vision into reality. Let us help you navigate the challenges and opportunities of the digital era.
+          Start selling today! Create your shop, list your products, and reach thousands of potential customers. Looking to buy? Browse through our marketplace for seeds, fertilizers, farm tools, harvests, and more – all in one place!
         </p>
 
-        <Link to="/shop">
-          <button className="w-52 h-12 bg-primeColor text-white hover:bg-black duration-300 rounded-md text-lg font-semibold">
-            Continue Shopping
-          </button>
-        </Link>
+        <div className="flex gap-4">
+          <Link to="/create-shop">
+            <button className="w-52 h-12 bg-primeColor text-white hover:bg-black duration-300 rounded-md text-lg font-semibold">
+              Create Shop
+            </button>
+          </Link>
+
+          <Link to="/shop">
+            <button className="w-52 h-12 bg-green-600 text-white hover:bg-green-800 duration-300 rounded-md text-lg font-semibold">
+              Continue Shopping
+            </button>
+          </Link>
+        </div>
       </div>
     </div>
   );
