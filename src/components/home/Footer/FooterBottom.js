@@ -9,12 +9,10 @@ const FooterBottom = () => {
           <span className="text-md mr-[1px] mt-[2px] md:mt-0 text-center hidden md:inline-flex">
             <AiOutlineCopyright />
           </span>
-          Copyright 2022 | SmartMavuno | All Rights Reserved |
-          <a href="https://reactbd.com/" target="_blank" rel="noreferrer">
-            <span className="ml-1 font-medium group-hover:text-primeColor">
-              Powered by SmartMavuno
-            </span>
-          </a>
+          Copyright 2025 | SmartMavuno | All Rights Reserved |
+          <span className="ml-1 font-medium group-hover:text-primeColor">
+            Powered by <a href="https://smartmavuno.com/" target="_blank" rel="noreferrer">NOVATRA CONSULTANCIES LIMITED</a>
+          </span>
         </p>
       </div>
     </div>
